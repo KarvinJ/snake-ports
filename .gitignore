@@ -1,0 +1,9 @@
+**/build
+*.elf
+*.rpx
+*.dol
+*.3dsx
+*.smdh
+*.nds
+*.nacp
+*.nro
